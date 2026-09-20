@@ -1,0 +1,14 @@
+# requirements.txt
+# ----------------
+# Python dependencies for the SoV AI Agent.
+# Install with:
+#     pip install -r requirements.txt
+google-api-python-client==2.70.0
+requests
+serpapi
+transformers
+torch
+pandas
+tqdm
+spacy
+streamlit
